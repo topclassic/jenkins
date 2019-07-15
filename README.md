@@ -1,12 +1,10 @@
-## Use Docker run Sonarqube with postgres and pgadmin
+## Use Docker run Jenkins
 #### Start
 ```sh
 $ docker-compose up
 ```
-#### Sonarqube
-http://localhost:9000
-#### pgAdmin4
-http://localhost:5050
+#### Jenkins
+http://localhost:8080
 
 #### Stop
 ```sh
